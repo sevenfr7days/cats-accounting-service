@@ -1,0 +1,6 @@
+rootProject.name = 'CatService'
+include 'CatConsumer'
+include 'CatConsumer'
+include 'OwnerConsumer'
+include 'Consumer'
+
