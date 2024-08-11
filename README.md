@@ -1,1 +1,1 @@
-# cats-accounting-service
+# REST-API Cats Tracking app
